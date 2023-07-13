@@ -22,8 +22,7 @@ export const movieData = () => {
     // Process the movies data
     return movies;
   } catch (err) {
-    console.error('Error reading JSON file:', err);
-    return []; // Return an empty array or handle the error accordingly
+    return new Error(); // Return an empty array or handle the error accordingly
   }
 };
 
