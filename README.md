@@ -13,12 +13,12 @@ pnpm dev
 ```
 
 Environment Variables:
-
+```
 OPENAI_API_KEY= {get it from https://platform.openai.com/account/api-keys }
 
-UPSTASH_REDIS_REST_URL={get it from https://console.upstash.com/redis}
-UPSTASH_REDIS_REST_TOKEN={get it from https://console.upstash.com/redis}
-
+UPSTASH_REDIS_REST_URL= {get it from https://console.upstash.com/redis}
+UPSTASH_REDIS_REST_TOKEN= {get it from https://console.upstash.com/redis}
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
