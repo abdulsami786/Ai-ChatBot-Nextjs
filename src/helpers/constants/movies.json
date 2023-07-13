@@ -1,0 +1,57 @@
+[
+    {
+      "Release_Date": "2021-12-15",
+      "Title": "Spider-Man: No Way Home",
+      "Overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+      "Popularity": 5083.954,
+      "Vote_Count": "8940",
+      "Vote_Average": "8.3",
+      "Original_Language": "en",
+      "Genre": "Action, Adventure, Science Fiction",
+      "Poster_Url": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+      "Release_Date": "2022-03-01",
+      "Title": "The Batman",
+      "Overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "Popularity": 3827.658,
+      "Vote_Count": "1151",
+      "Vote_Average": "8.1",
+      "Original_Language": "en",
+      "Genre": "Crime, Mystery, Thriller",
+      "Poster_Url": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "Release_Date": "2022-02-25",
+      "Title": "No Exit",
+      "Overview": "Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.",
+      "Popularity": 2618.087,
+      "Vote_Count": "122",
+      "Vote_Average": "6.3",
+      "Original_Language": "en",
+      "Genre": "Thriller",
+      "Poster_Url": "https://image.tmdb.org/t/p/original/vDHsLnOWKlPGmWs0kGfuhNF4w5l.jpg"
+    },
+    {
+      "Release_Date": "2021-11-24",
+      "Title": "Encanto",
+      "Overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+      "Popularity": 2402.201,
+      "Vote_Count": "5076",
+      "Vote_Average": "7.7",
+      "Original_Language": "en",
+      "Genre": "Animation, Comedy, Family, Fantasy",
+      "Poster_Url": "https://image.tmdb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
+    },
+    {
+      "Release_Date": "2021-12-22",
+      "Title": "The King's Man",
+      "Overview": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+      "Popularity": 1895.511,
+      "Vote_Count": "1793",
+      "Vote_Average": "7.0",
+      "Original_Language": "en",
+      "Genre": "Action, Adventure, Thriller, War",
+      "Poster_Url": "https://image.tmdb.org/t/p/original/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg"
+    }
+]
