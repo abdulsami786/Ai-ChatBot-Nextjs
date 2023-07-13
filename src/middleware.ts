@@ -1,11 +1,10 @@
-// middleware.ts
-import { NextResponse } from 'next/server'
-import type { NextRequest } from 'next/server'
+import { NextResponse } from "next/server";
+import type { NextRequest } from "next/server";
+
 import { rateLimiter } from '@/lib/rate-limiter'
 
-
-export async function middleware(req: NextRequest) {
-  const ip = req.ip ?? '127.0.0.1'
+export async function middleware(req:NextRequest){
+    const ip = req.ip ?? '127.0.0.1'
 
   try {
     const { success } = await rateLimiter.limit(ip)
@@ -19,7 +18,6 @@ export async function middleware(req: NextRequest) {
   }
 }
 
-
-export const config = {
-  matcher: '/api/message/:path*',
+export const config={
+    matcher:'/api/message',
 }
